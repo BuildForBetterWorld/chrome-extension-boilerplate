@@ -1,0 +1,17 @@
+.DS_Store
+**/.DS_Store
+
+node_modules/**
+*.log
+npm-debug.log
+
+env.sh
+
+
+.vscode/*
+.idea/*
+.idea/housefolios-meteor-extension.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+
